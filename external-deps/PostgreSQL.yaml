@@ -15,7 +15,7 @@ includes:
 libraries:
     find:
       - names:
-          - libpq.a
+          - libpq.dylib
         paths:
           - ${USERVER_PG_LIBRARY_DIR}
 
